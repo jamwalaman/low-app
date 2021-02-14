@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Starter Template with React Bootstrap`,
+    title: `Language of Wearing`,
     description: ``,
-    author: `Haydn Adams`,
+    author: `Aman Jamwal`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -18,8 +18,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `starter-template-with-react-bootstrap`,
-        short_name: `starter-with-react-bootstrap`,
+        name: `language-of-wearing`,
+        short_name: `language-of-wearing`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
